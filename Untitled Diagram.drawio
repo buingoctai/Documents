@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T08:24:17.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="i18z3l88btk9x8pU804v" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T08:42:54.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ABwpSm4reWRAVMVHQCcu" version="20.8.4" type="github">
   <diagram id="1ssEvV0KWDnoUiteVpm6" name="Page-1">
     <mxGraphModel dx="934" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
           <mxGeometry x="30" y="1750" width="780" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2sWKhG2LkapYFipmCqXm-167" value="{&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;convIdA:&amp;nbsp; &amp;nbsp;msgId,&lt;br&gt;&amp;nbsp; &amp;nbsp;convIdB:&amp;nbsp; &amp;nbsp;msgId,&lt;br&gt;&amp;nbsp; &amp;nbsp;convIdC:&amp;nbsp; &amp;nbsp;msgId,&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="296" y="1885" width="272" height="105" as="geometry" />
+          <mxGeometry x="332" y="1887.5" width="144" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2sWKhG2LkapYFipmCqXm-168" value="Cấu trúc data server cần trả thêm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="50" y="1910" width="110" height="52.5" as="geometry" />
@@ -343,7 +343,7 @@
         <mxCell id="2sWKhG2LkapYFipmCqXm-180" value="init new key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="720" y="1470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2sWKhG2LkapYFipmCqXm-182" value="{&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;convIdA:&amp;nbsp; &amp;nbsp;msgId [],&lt;br&gt;&amp;nbsp; &amp;nbsp;convIdB:&amp;nbsp; &amp;nbsp;msgId [],&lt;br&gt;&amp;nbsp; &amp;nbsp;convIdC:&amp;nbsp; &amp;nbsp;msgId [],&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="2sWKhG2LkapYFipmCqXm-182" value="{&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;convIdA:&amp;nbsp; &amp;nbsp;msgId [],&lt;br&gt;&amp;nbsp; &amp;nbsp;convIdB:&amp;nbsp; &amp;nbsp;msgId [],&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="330.5" y="2067.5" width="179" height="105" as="geometry" />
         </mxCell>
         <mxCell id="2sWKhG2LkapYFipmCqXm-183" value="&lt;ul&gt;&lt;li&gt;msgId []: danh sách msgId có msgs kế tiếp bị miss&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;perimeterSpacing=1;" parent="1" vertex="1">
@@ -402,12 +402,12 @@
         </mxCell>
         <mxCell id="2sWKhG2LkapYFipmCqXm-206" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#007FFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="2000" as="sourcePoint" />
-            <mxPoint x="420" y="2050" as="targetPoint" />
+            <mxPoint x="375" y="2010" as="sourcePoint" />
+            <mxPoint x="375" y="2060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2sWKhG2LkapYFipmCqXm-207" value="Transform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="450" y="2010" width="70" height="30" as="geometry" />
+          <mxGeometry x="405" y="2020" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
