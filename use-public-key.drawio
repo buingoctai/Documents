@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T02:47:40.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2PtS7L7BDd-BWg-9GtnJ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:27:30.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q0iVN3E9O018rUYj5UIp" version="21.3.8" type="github">
   <diagram name="Page-1" id="N9Y60iSxj3GCSwu--n6d">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
         <mxCell id="kyeIvbU6v8zzzXoFyVYG-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="kyeIvbU6v8zzzXoFyVYG-55" source="kyeIvbU6v8zzzXoFyVYG-123" target="kyeIvbU6v8zzzXoFyVYG-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kyeIvbU6v8zzzXoFyVYG-123" value="Start transfer" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="kyeIvbU6v8zzzXoFyVYG-55" vertex="1">
+        <mxCell id="kyeIvbU6v8zzzXoFyVYG-123" value="Request transfer" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="kyeIvbU6v8zzzXoFyVYG-55" vertex="1">
           <mxGeometry x="137.83999999999992" y="32" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kyeIvbU6v8zzzXoFyVYG-127" value="Generate QR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="kyeIvbU6v8zzzXoFyVYG-55" vertex="1">
@@ -455,7 +455,7 @@
         <mxCell id="kyeIvbU6v8zzzXoFyVYG-145" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="kyeIvbU6v8zzzXoFyVYG-55" vertex="1">
           <mxGeometry x="122.5" y="162" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kyeIvbU6v8zzzXoFyVYG-168" value="Retry transfer" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="kyeIvbU6v8zzzXoFyVYG-55" vertex="1">
+        <mxCell id="kyeIvbU6v8zzzXoFyVYG-168" value="Clear existing&lt;br&gt;keys" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="kyeIvbU6v8zzzXoFyVYG-55" vertex="1">
           <mxGeometry x="17.33" y="212" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kyeIvbU6v8zzzXoFyVYG-170" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="kyeIvbU6v8zzzXoFyVYG-55" source="kyeIvbU6v8zzzXoFyVYG-168" target="kyeIvbU6v8zzzXoFyVYG-57" edge="1">
